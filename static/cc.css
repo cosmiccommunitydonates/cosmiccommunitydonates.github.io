@@ -8,7 +8,7 @@ body {
 		margin-bottom: 100px;
 		background-image: url("http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2008/03/wide-field_view_of_the_summer_triangle/10241486-2-eng-GB/Wide-field_view_of_the_Summer_Triangle.jpg");
 		background-position: left top;
-		background-repeat: no-repeat;
+		background-repeat: repeat-y;
         background-size: 2000px 1000px;
 }
 
