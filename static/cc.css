@@ -31,8 +31,8 @@ body {
 }
 
 .btn-xlarge {
-    padding: 10px 12px;
-    font-size: 23px;
+    padding: 8px 25px;
+    font-size: 22px; 
     line-height: normal;
     -webkit-border-radius: 8px;
        -moz-border-radius: 8px;
