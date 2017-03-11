@@ -38,3 +38,13 @@ body {
        -moz-border-radius: 8px;
             border-radius: 8px;
 }
+
+.btn-lgr {
+    padding: 8px 20px;
+    font-size: 18px; 
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}	
+}	
